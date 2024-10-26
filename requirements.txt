@@ -1,0 +1,4 @@
+pygetwindow==0.0.9
+plyer==2.0.0
+pyautogui==0.9.54
+requests==2.31.0
